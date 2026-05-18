@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pipeline Infographic Builder"
+  short_description: "Build reference-level end-to-end workflow infographics"
+  default_prompt: "Use $pipeline-infographic-builder to turn this rough workflow into a reference-level end-to-end infographic package with timeline, ownership, AI tasks, human review, outputs, distribution, archive, and checker result."

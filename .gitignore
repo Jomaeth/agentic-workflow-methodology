@@ -1,0 +1,50 @@
+# Local/private course materials
+references/
+reference/
+docs/private/
+docs/internal/
+Lecture note Reference/
+Lecture notes/
+course-materials/
+source-materials/
+client-materials/
+
+# Demo and real data files
+demo-data/
+data/
+datasets/
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.tsv
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Generated outputs and QA artifacts
+output/
+outputs/
+screenshots/
+qa_screenshots/
+*.log
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+secrets/
+*.key
+*.pem
+
+# OS/editor/cache
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+node_modules/
+__pycache__/
+.pytest_cache/
