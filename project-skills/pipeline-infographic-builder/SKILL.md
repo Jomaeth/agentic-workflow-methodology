@@ -1265,6 +1265,8 @@ Use the four reference diagrams in `assets/reference-benchmarks/` as the minimum
 3. `03-method-statement-agent.png`
 4. `04-tendering-agent.png`
 
+See `assets/reference-benchmarks/BENCHMARK_MANIFEST.md` for the benchmark file list, QA status, and SHA256 hashes. The RFI, Method Statement, and Tendering benchmark images are the layout-QA-passed versions with no clipping, no overflow, and no tiny text.
+
 The Monthly Report example is the gold-standard operating rhythm benchmark. The RFI, Method Statement, and Tendering examples show how the same reference-level structure adapts to event-triggered, work-package-triggered, and opportunity-triggered construction workflows.
 
 The reference-level standard means the final package must be at least as complete as the Monthly Report Agent example: not a loose flowchart, not only a designer prompt, and not an AI-only process diagram. It must show a full operating workflow with timing, roles, AI tasks, review gates, outputs, distribution, archive, and business value.
